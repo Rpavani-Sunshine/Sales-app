@@ -1,0 +1,1 @@
+export const SaleApp_API = "http://localhost:4000"

@@ -1,0 +1,8 @@
+.navbar-toggler{
+    border : 2px solid #f8f8f8;
+}
+@media screen and (max-width: 450px) {
+    .navbar-brand{
+        font-size:x-large;
+    }
+}

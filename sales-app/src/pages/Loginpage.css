@@ -1,0 +1,13 @@
+@media screen and (max-width: 450px) {
+   .mobile-container{
+    margin-top: 10px !important;
+   }
+    .mobile-style{
+    width: 100% !important;
+    margin-top: 5px !important;
+   }
+}
+.errorMessage{
+   color: red;
+   display: none;
+}
